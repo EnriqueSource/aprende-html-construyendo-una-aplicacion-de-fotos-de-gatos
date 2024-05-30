@@ -2,7 +2,7 @@
 
 # Aprende HTML construyendo una aplicación de fotos de gatos
 
-## Página web creada en el curso "Aprende HTML construyendo una aplicación de fotos de gatos".
+## Página web creada en el curso "Aprende HTML construyendo una aplicación de fotos de gatos", perteneciente a la certificación "Diseño Web Responsivo" de freeCodeCamp.
 
 ---
 
