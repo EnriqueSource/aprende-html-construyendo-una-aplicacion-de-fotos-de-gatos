@@ -4,6 +4,12 @@
 
 ---
 
+[Enlace a la app](https://cat-photo-app-bde.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/05936221-9125-488c-9f09-d906bd1bb6b7/deploy-status)](https://app.netlify.com/sites/cat-photo-app-bde/deploys)
+
+---
+
 - Los comentarios se abren con `<!--` y se cierran con `-->` . Se pueden añadir tantas líneas como se desee.
 - Para hacer referencia a los diferentes elementos html se utilizan etiquetas. Las etiquetas de apertura se abren con `<nombre-del-elemento>` y se cierran con `</nombre-del-elemento>`.
 - El elemento `<image>` es auto-cerrado (no tiene etiqueta de cierre).
