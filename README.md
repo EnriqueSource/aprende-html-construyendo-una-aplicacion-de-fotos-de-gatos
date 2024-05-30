@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a3de49a8-cea9-4d35-88e1-fb00e9cf8a71/deploy-status)](https://app.netlify.com/sites/cat-photo-app-bde/deploys)
+
 # Aprende HTML construyendo una aplicación de fotos de gatos
 
 - Los comentarios se abren con `<!--` y se cierran con `-->` . Se pueden añadir tantas líneas como se desee.
