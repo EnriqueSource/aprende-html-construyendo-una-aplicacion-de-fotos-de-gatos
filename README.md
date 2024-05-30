@@ -2,6 +2,10 @@
 
 # Aprende HTML construyendo una aplicación de fotos de gatos
 
+## Página web creada en el curso "Aprende HTML construyendo una aplicación de fotos de gatos".
+
+---
+
 - Los comentarios se abren con `<!--` y se cierran con `-->` . Se pueden añadir tantas líneas como se desee.
 - Para hacer referencia a los diferentes elementos html se utilizan etiquetas. Las etiquetas de apertura se abren con `<nombre-del-elemento>` y se cierran con `</nombre-del-elemento>`.
 - El elemento `<image>` es auto-cerrado (no tiene etiqueta de cierre).
