@@ -6,7 +6,7 @@
 
 [Enlace a la app](https://cat-photo-app-bde.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/05936221-9125-488c-9f09-d906bd1bb6b7/deploy-status)](https://app.netlify.com/sites/cat-photo-app-bde/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f33f6ee5-be92-484f-a55f-6eed1fb35986/deploy-status)](https://app.netlify.com/sites/cat-photo-app-bde/deploys)
 
 ---
 
