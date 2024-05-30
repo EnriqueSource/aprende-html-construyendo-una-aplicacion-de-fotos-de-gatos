@@ -2,13 +2,11 @@
 
 ## Página web creada en el curso "Aprende HTML construyendo una aplicación de fotos de gatos", perteneciente a la certificación "Diseño Web Responsivo" de freeCodeCamp.
 
----
-
 [Enlace a la app](https://cat-photo-app-bde.netlify.app/)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f33f6ee5-be92-484f-a55f-6eed1fb35986/deploy-status)](https://app.netlify.com/sites/cat-photo-app-bde/deploys)
-
 ---
+
+## Resumen del curso:
 
 - Los comentarios se abren con `<!--` y se cierran con `-->` . Se pueden añadir tantas líneas como se desee.
 - Para hacer referencia a los diferentes elementos html se utilizan etiquetas. Las etiquetas de apertura se abren con `<nombre-del-elemento>` y se cierran con `</nombre-del-elemento>`.
