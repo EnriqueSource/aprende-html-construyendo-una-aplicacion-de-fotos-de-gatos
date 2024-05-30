@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a3de49a8-cea9-4d35-88e1-fb00e9cf8a71/deploy-status)](https://app.netlify.com/sites/cat-photo-app-bde/deploys)
-
 # Aprende HTML construyendo una aplicación de fotos de gatos
 
 ## Página web creada en el curso "Aprende HTML construyendo una aplicación de fotos de gatos", perteneciente a la certificación "Diseño Web Responsivo" de freeCodeCamp.
