@@ -6,7 +6,7 @@
 
 ---
 
-## Resumen del curso:
+## Resumen de datos del curso:
 
 - Los comentarios se abren con `<!--` y se cierran con `-->` . Se pueden añadir tantas líneas como se desee.
 - Para hacer referencia a los diferentes elementos html se utilizan etiquetas. Las etiquetas de apertura se abren con `<nombre-del-elemento>` y se cierran con `</nombre-del-elemento>`.
