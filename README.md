@@ -50,7 +50,7 @@
 	- Hay otra manera de asociar un texto con un elemento `<input>`. Se puede añadir un texto a un elemento `<label>` y añadirle un atributo `for` que contenga el mismo nombre que el `id` del `<input>`. Es importante que el elemento `<label>` se coloque detras del elemento `<input>` y no delante. De lo contrario no funcionara como es debido (al menos en el curso de freecodecamp).
 		Ejemplo:
     ```
-    <input id="loving" type="checkbox>
+    <input id="loving" type="checkbox">
     <label for="loving"> Loving </label>
     ```
     
